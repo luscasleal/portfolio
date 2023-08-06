@@ -44,6 +44,7 @@ body {
 }
 
 .apresentacao {
+    box-sizing: border-box;
     padding: 5% 15%;
     display: flex;
     align-items: center;
@@ -141,7 +142,6 @@ body {
     }
 
     .apresentacao__imagem {
-        height: 20%;
         width: auto;
     }
 }
