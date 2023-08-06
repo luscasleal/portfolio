@@ -135,4 +135,12 @@ body {
     .apresentacao__conteudo {
         width: auto;
     }
+
+    .apresentacao__links__navegacao {
+        width: 75%;
+    }
+
+    .apresentacao__imagem {
+        width: 75%;
+    }
 }
